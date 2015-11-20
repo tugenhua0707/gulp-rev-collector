@@ -1,0 +1,26 @@
+{
+  "name": "rev",
+  "version": "1.0.0",
+  "description": "\"test package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"a common\""
+  },
+  "keywords": [
+    "rev"
+  ],
+  "author": "tugenhua",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^6.0.1",
+    "gulp-rev-collector": "^1.0.2",
+    "gulp-uglify": "^1.5.1",
+    "jshint": "^2.8.0"
+  }
+}
